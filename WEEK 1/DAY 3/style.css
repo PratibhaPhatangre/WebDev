@@ -1,0 +1,18 @@
+h3{
+    color: blue;
+}
+body{
+    background-image: url("https://pm1.narvii.com/6819/b6c1e55b347c4183010d29a5e8d2e70fa925ceb6v2_hq.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;      
+    }
+@media(min-width:568px){
+    #name{  
+        color: yellow;
+}
+}
+.temp{
+    height: 200px;
+    background-color: aliceblue;
+    margin: 70px;
+}
